@@ -95,7 +95,7 @@ Gender spending differences create opportunities for more targeted promotions.
 - retail analysis 2023.xlsx
 
 ### Presentation
-- Retail Report 2023.pptx
+- [Retail Report 2023.pptx](https://github.com/iannavarro-27/Retail-Sales-Analysis-2023/blob/main/Retail%20Report%202023.pptx)
 
 ---
 
